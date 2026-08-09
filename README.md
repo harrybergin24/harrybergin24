@@ -14,21 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a second year Mathematics student at Durham. 
+I am a second year Mathematics student at Durham University.
+
+I'm working on improving my mathematics as in the future I want to do projects on risk premia investing, studying volatility and skew risk premia as well and modelling volatility for different types of options in particular interest rate options to come up with rich/cheap indicators. 
+
 
 # Projects
 
 N number of pairs trading:
 
-I am currently working on this project, developing a simple pair trading into having many different stocks trading and then testing to see the co intergrated pairs amognst them to have stat arb opprunities. Where I want to go with this project is to answer a few main questions. 
+I am currently working on this project, developing a simple pair trading into having many different stocks trading and then testing to see the co integrated pairs amongst them to have stat arb opportunities. Where I want to go with this project is to answer a few main questions. 
 
-Are there pairs amoungst the n number of stocks that are uncorrelated to produce less voltilie returns? 
+Are there pairs amongst the n number of stocks that are uncorrelated to produce less volatile returns? 
 
-Are there any pairs which are not correlcted to a index to boost returns and lower voltility? 
-
-
+Are there any pairs which are not correlated to a index to boost returns and lower volatility? 
 
 
-
-A simple blackscholes formula
 
