@@ -18,6 +18,7 @@ I am a second year Mathematics student at Durham University.
 
 I'm working on improving my mathematics as in the future I want to do projects on risk premia investing, studying volatility and skew risk premia as well and modelling volatility for different types of options in particular interest rate options to come up with rich/cheap indicators. 
 
+Besides this, I am interested in Football, Cricket, History and Economics. 
 
 # Projects
 
