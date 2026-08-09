@@ -21,7 +21,7 @@ I'm working on improving my mathematics as in the future I want to do projects o
 
 # Projects
 
-N number of pairs trading:
+n number of pairs trading:
 
 I am currently working on this project, developing a simple pair trading into having many different stocks trading and then testing to see the co integrated pairs amongst them to have stat arb opportunities. Where I want to go with this project is to answer a few main questions. 
 
