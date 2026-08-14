@@ -30,5 +30,5 @@ Are there pairs amongst the n number of stocks that are uncorrelated to produce 
 
 Are there any pairs which are not correlated to a index to boost returns and lower volatility? 
 
-Is there a way of weighting the pairs to boost returns? Possibly weighting by P-Value.
+Is there a way of weighting the pairs to boost returns?
 
