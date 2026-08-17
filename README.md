@@ -22,7 +22,7 @@ Besides this, I am interested in Football, Cricket, History and Economics.
 
 # Projects
 
-Trading Volatility:
+### [Volatility Trading](https://github.com/HARRY/variance-swap-backtest)
 
 Using VIX and S&P 500 data, I develop a back test for a variance swap strategy making long/short positions, rolling 30 days. 
 
