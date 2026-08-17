@@ -22,9 +22,11 @@ Besides this, I am interested in Football, Cricket, History and Economics.
 
 # Projects
 
+Trading Volatility:
+
 n number of pairs trading:
 
-I am currently working on this project, developing a simple pair trading into having many different stocks trading and then testing to see the co integrated pairs amongst them to have stat arb opportunities. Where I want to go with this project is to answer a few main questions:
+developed a simple pair trading into having many different stocks trading and then testing to see the co integrated pairs amongst them to have stat arb opportunities. Where I want to go with this project is to answer a few main questions:
 
 Are there pairs amongst the n number of stocks that are uncorrelated to produce less volatile returns? 
 
