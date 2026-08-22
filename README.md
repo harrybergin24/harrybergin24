@@ -28,11 +28,4 @@ Using VIX and S&P 500 data, I develop a back test for a variance swap strategy m
 
 ### [n number of pairs](https://github.com/harrybergin24/n-number-of-pairs-trading)
 
-developed a simple pair trading into having many different stocks trading and then testing to see the co integrated pairs amongst them to have stat arb opportunities. Where I want to go with this project is to answer a few main questions:
-
-Are there pairs amongst the n number of stocks that are uncorrelated to produce less volatile returns? 
-
-Are there any pairs which are not correlated to a index to boost returns and lower volatility? 
-
-Is there a way of weighting the pairs to boost returns?
-
+developed a simple pair trading into having many different stocks trading and then testing to see the co integrated pairs amongst them to have stat arb opportunities. 
