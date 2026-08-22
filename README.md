@@ -26,7 +26,7 @@ Besides this, I am interested in Football, Cricket, History and Economics.
 
 Using VIX and S&P 500 data, I develop a back test for a variance swap strategy making long/short positions, rolling 30 days. 
 
-### [n number of pairs](https://github.com/harrybergin24/n_number_of_pairs_trading)
+### [n number of pairs](https://github.com/harrybergin24/n-number-of-pairs-trading)
 
 developed a simple pair trading into having many different stocks trading and then testing to see the co integrated pairs amongst them to have stat arb opportunities. Where I want to go with this project is to answer a few main questions:
 
