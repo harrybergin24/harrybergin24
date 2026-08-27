@@ -26,6 +26,4 @@ Besides this, I am interested in Football, Cricket, History and Economics.
 
 Using VIX and S&P 500 data, I develop a back test for a variance swap strategy making long/short positions, rolling 30 days. Due to not having access to historical options data, I use the VIX index as a proxy for estimating the 'fair strike' of a variance swap, due to it's same methodology of using a weighed strip of OTM options. Then I forecast future volatility as a weighted linear combination of past rolling day volatilities, then using this to create a VRP(volatility risk premium). Which then I use as a signal to enter positions using basic mean reversion. 
 
-### [N number of pairs](https://github.com/harrybergin24/n-number-of-pairs-trading)
 
-developed a simple pair trading into having many different stocks trading and then testing to see the co integrated pairs amongst them to have stat arb opportunities. 
