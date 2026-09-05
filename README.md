@@ -26,8 +26,13 @@ Besides this, I am interested in: Football, Cricket, History and The Beatles.
 
 Using VIX and S&P 500 data, I develop a back test for a variance swap strategy making long/short positions, rolling 30 days. Due to not having access to historical options data, I use the VIX index as a proxy for estimating the 'fair strike' of a variance swap, due to it's same methodology of using a weighed strip of OTM options. Then I forecast future volatility as a weighted linear combination of past rolling day volatilities, then using this to create a VRP(volatility risk premium). Which then I use as a signal to enter positions using basic mean reversion. 
 
+Currently working on updating this project based on findings from (Is Expected Market Volatility a Priced Risk Factor?Y. LIAO, A. NEUHIERL, V. TODOROV). 
+
 ### [Estimating Probabilites from butterly options](https://github.com/harrybergin24/Estimating-implied-probabilties-from-Butterfly-options-/blob/b9ce77b5b5bfa6f13370c4e48c60098c8d7963d9/Estimating_Implied_Probabities_using_Butterflys%20(6).pdf)
 
 In this project I derive from Stephen Blyth's 'An Introduction to Quantitative Finance' that butterfly option prices have a condtional probaiblity density funciton embeddedin within them. This has a very nice link to my project as the derivation starts from gaining call spreads in terms of binary option prices, and then writing butterfly option prices as two call spreads. This is the same idea used in the replication method to gain a 'fair strike' value for the variance swap, that a contiummum of call options can be used to replicate different derivative contract payoff functions. 
+
+I am currently working on updating this project based of findings in (What Can You Really Tell from Option Prices? O. BONDARENKO, Y. DILLSCHNEIDER, P. SCHNEIDER, F.TROJANI)
+
 
 
