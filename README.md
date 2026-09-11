@@ -24,9 +24,7 @@ Besides this, I am interested in: Football, Cricket, History and The Beatles.
 
 ### [Volatility Trading](https://github.com/harrybergin24/Trading-Volatility)
 
-Using VIX and S&P 500 data, I develop a back test for a variance swap strategy making long/short positions, rolling 30 days. Due to not having access to historical options data, I use the VIX index as a proxy for estimating the 'fair strike' of a variance swap, due to it's same methodology of using a weighed strip of OTM options. Then I forecast future volatility as a weighted linear combination of past rolling day volatilities, then using this to create a VRP(volatility risk premium). Which then I use as a signal to enter positions using basic mean reversion. 
-
-Currently working on updating this project based on findings from (Is Expected Market Volatility a Priced Risk Factor?Y. LIAO, A. NEUHIERL, V. TODOROV). 
+I back test 30 day variance swaps, variance swaps with short time frames behave similar to selling straddles. However, this option to trade volatility is not possible for me to back test, due to a lack of access to historical options data. I have included in this project the old version and the new version I am currently working on. This starts with a motivation for volatility trading, moving on to discussing the Volatility risk premium. After, I derive the replication formula connecting it to the VIX, which supports my idea for using the VIX as a proxy for the strike value $K_{Var}$. Then developing to forecasting future volatility, implementing GARCH. Then moving on to the back test of the strategy, testing on in and out of sample data. I then compare this to the same strategies returns on the Nasdaq and will try and explain the causes of differences. I am currently working on the forecasting of volatility and working my way through everyday, this is a working project that I will continue to adapt overtime. 
 
 ### [Estimating Probabilites from butterly options](https://github.com/harrybergin24/Estimating-implied-probabilties-from-Butterfly-options-/blob/b9ce77b5b5bfa6f13370c4e48c60098c8d7963d9/Estimating_Implied_Probabities_using_Butterflys%20(6).pdf)
 
