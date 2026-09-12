@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a second year Mathematics student at Durham University.
+I am a second year Mathematics student at Durham University. 
 
-I'm working on improving my mathematics as in the future I want to do projects on risk premia investing, studying volatility and skew risk premia as well and modelling volatility for different types of options in particular interest rate options to come up with rich/cheap indicators. 
-
-Besides this, I am interested in: Football, Cricket, History and The Beatles.
+I am fasicnated by structured products, I am everyday researching about finanical engierrning I am adding to these pro
 
 # Projects
 
@@ -26,9 +24,18 @@ Besides this, I am interested in: Football, Cricket, History and The Beatles.
 
 I back test 30 day variance swaps, variance swaps with short time frames behave similar to selling straddles. However, this option to trade volatility is not possible for me to back test, due to a lack of access to historical options data. I have included in this project the old version and the new version I am currently working on. This starts with a motivation for volatility trading, moving on to discussing the Volatility risk premium. After, I derive the replication formula connecting it to the VIX, which supports my idea for using the VIX as a proxy for the strike value $K_{Var}$. Then developing to forecasting future volatility, implementing GARCH. Then moving on to the back test of the strategy, testing on in and out of sample data. I then compare this to the same strategies returns on the Nasdaq and will try and explain the causes of differences. I am currently working on the forecasting of volatility and working my way through everyday, this is a working project that I will continue to adapt overtime. 
 
+Currently Adding:
+- Better back testing methods
+- Improved volatitiy forecasting
+- Comparison of back test results, S&P vs Nasdaq
+
 ### [Estimating Probabilites from butterfly options](https://github.com/harrybergin24/Estimating-implied-probabilties-from-Butterfly-options-/blob/b9ce77b5b5bfa6f13370c4e48c60098c8d7963d9/Estimating_Implied_Probabities_using_Butterflys%20(6).pdf)
 
 In this project I derive from Stephen Blyth's 'An Introduction to Quantitative Finance' that butterfly option prices have a condtional probaiblity density funciton embedded in within them. This has a very nice link to my project as the derivation starts from gaining call spreads in terms of binary option prices, and then writing butterfly option prices as two call spreads. This is the same idea used in the replication method to gain a 'fair strike' value for the variance swap, that a contiummum of call options can be used to replicate different derivative contract payoff functions. 
+
+Working on adding: 
+- Pricing a Down and in, a barrier option 
+
 
 I am currently working on updating this project based of findings in (What Can You Really Tell from Option Prices? O. BONDARENKO, Y. DILLSCHNEIDER, P. SCHNEIDER, F.TROJANI)
 
