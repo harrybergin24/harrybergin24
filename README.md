@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a second year Mathematics student at Durham University. I am currently preparing for the Simon Marais competition. 
 
-I am fascinated by structured products, I am everyday researching the process around how different products are created. 
+I am fascinated by structured products and derivatives, I am researching everyday the process around how different products are created and priced.
 
 # Projects
 
