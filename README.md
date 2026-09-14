@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a second year Mathematics student at Durham University. I am currently preparing for the Simon Marais competition. 
+I am a second year Mathematics and Statistics student at Durham University. I am currently preparing for the Simon Marais competition. 
 
 I am fascinated by structured products and derivatives, I am researching everyday the process around how different products are created and priced.
 
