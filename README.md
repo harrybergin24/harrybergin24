@@ -36,7 +36,7 @@ Future Changes:
 
 ### [Estimating Implied Probabilites From Butterfly Options](https://github.com/harrybergin24/Estimating-implied-probabilties-from-Butterfly-options-/blob/b9ce77b5b5bfa6f13370c4e48c60098c8d7963d9/Estimating_Implied_Probabities_using_Butterflys%20(6).pdf)
 
-In this project I derive from Stephen Blyth's 'An Introduction to Quantitative Finance' that butterfly option prices have a condtional probaiblity density funciton embedded in within them. This has a very nice link to my project as the derivation starts from gaining call spreads in terms of binary option prices, and then writing butterfly option prices as two call spreads. This is the same idea used in the replication method to gain a 'fair strike' value for the variance swap, that a contiummum of call options can be used to replicate different derivative contract payoff functions. 
+In this project I derive from Stephen Blyth's 'An Introduction to Quantitative Finance' the result that butterfly option prices have a conditional probability density function embedded within them. This has a very nice link to my variance swap project as the derivation starts from gaining call spreads in terms of binary option prices, and then writing butterfly option prices as two call spreads. This is the same idea used in the replication method to gain a 'fair strike' value for the variance swap, that a continuum of call options can be used to replicate different derivative contract payoff functions. 
 
 Future Changes:
 - Pricing a Down-And-Out Call option using the replication formula obtained previously
