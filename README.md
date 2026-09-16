@@ -24,16 +24,15 @@ I would always appreciate any advice or suggestions, please contact me at: harry
 
 ### [Volatility Trading](https://github.com/harrybergin24/Trading-Volatility)
 
-In this project I back test 30-day variance swaps, which behave similarly to straddles due to their short expiration date. However, I cannot back test how straddles would have performed in the past due to a lack of historical options data. This is an issue I repeatedly run into throughout the project. This project is broken up into several different parts, each giving a mathematical and conceptual explanation for the results. I start by giving a motivating example, the large returns of selling puts previously generated. I then move on to why this explains the presence of the Volatility Risk Premium(VRP) and what this concept is. Then I move onto the method of extracting this premium from the market, variance swaps. After discussing this product I derive the replication formula, famously discovered by a team at Goldman Sachs. I then show the connection between this formula and the methodology of the VIX, supporting my method of using adapted VIX prices to estimate the swap’s strike value. To make our VRP I forecast realised volatility using GARCH and subtracting this from the 30-day Implied volatility, which the VIX calculates. I then use the mean reversion of the VRP, to make a signal based on the deviations from a mean(I test rolling and expanding as well). Then I optimise this signal for entry parameters having different entry requirements for short and long volatility. This then generates returns over time, I am now working on analysing these returns and attempting to spot a pattern across indices where the strategy performs well or badly on. 
+In this Repo there are 3 projects based around trading volatility, all coming at volatility as a concept from different aspects. The first sub-project of back testing variance swaps is an attempt to generate an insight into how variance swaps have returns and what are the ways to boost a non-directional volatility trading strategy. Secondly, the structuring aspect is looking at pricing vol products, I am initially starting with pricing variance swaps and forward starting swaps in the future. I hope to extend this further after I have learnt about new derivatives on vol such as vol options. Finally, I am working on creating a predictive volatility model using machine learning. Instead of having to adapt volatility forecasting to each index I apply the strategy to, I am taking Kaggle's machine learning and feature engineering courses as well as other resources to prepare me to take on this project.
 
-Recent Changes:
-- Walk Foward validiation for GARCH volatitily modelling
-- Train and test split for entry paramater to enter a postion
-- Replication Formula derivation for the Variance Swap
 
-Future Changes:
-- Pricing forwards on variance swaps
-
+This project will once completed contain 3 parts:
+- Variance Swap Strategy Backtest
+  
+- Structuring volatility products
+  
+- Forecasting Volatiltiy(ML) 
 
 
 ### [Estimating Implied Probabilites From Butterfly Options](https://github.com/harrybergin24/Estimating-implied-probabilties-from-Butterfly-options-/blob/b9ce77b5b5bfa6f13370c4e48c60098c8d7963d9/Estimating_Implied_Probabities_using_Butterflys%20(6).pdf)
