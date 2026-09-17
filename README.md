@@ -28,7 +28,7 @@ In this Repo there are 3 projects based around trading volatility, all coming at
 
 
 This project will once completed contain 3 parts:
-- [Variance Swap Strategy Backtest](<Trading-Volatility/blob/5b8c2623f8807a66ef02f9f88b17fe106b36c67d/Variance_swap_trading/VS_TRADING_README.md>)
+- [Variance Swap Back Test](<Variance_swap_trading/VS_TRADING_README.md>)
   
 - Structuring volatility products
   
