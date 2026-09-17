@@ -32,7 +32,7 @@ This project will once completed contain 3 parts:
   
 - Structuring volatility products
   
-- Forecasting Volatiltiy(ML) 
+- Forecasting Volatility
 
 
 ### [Estimating Implied Probabilites From Butterfly Options](https://github.com/harrybergin24/Estimating-implied-probabilties-from-Butterfly-options-/blob/b9ce77b5b5bfa6f13370c4e48c60098c8d7963d9/Estimating_Implied_Probabities_using_Butterflys%20(6).pdf)
