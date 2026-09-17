@@ -18,7 +18,7 @@ I am a second year Mathematics and Statistics student at Durham University. I am
 
 I am fascinated by structured products and derivatives, I am researching everyday the process around how different products are created and priced.
 
-I would always appreciate any advice or suggestions, please contact me at: harrybergin@gmail.com
+I always appreciate any advice or suggestions, please contact me at: harrybergin@gmail.com
 
 # Projects
 
