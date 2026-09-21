@@ -30,7 +30,7 @@ Within this project there are three subprojects based around looking at volatili
 This project will once completed contain 3 parts:
 - [Variance Swap Back Test](<https://github.com/harrybergin24/Trading-Volatility/blob/28018e7d068859b50d0c2b028ff5b5e8fd106b8f/Variance_swap_trading/FinalVS/VS_TRADING_README.md>)
    
-- Structuring volatility products
+- [Structuring volatility products](<https://github.com/harrybergin24/Derivatives-Dashboard/blob/main/Vol_derivatives/vol_products_dashboard.md>)
   
 - Forecasting Volatility
 
