@@ -39,6 +39,6 @@ This project will once completed contain 3 parts:
 
 This file contains essays and sometimes code that I have written on topics within Quantitative Finance and Mathematics. Currently This file contains:
 
-- [Estimating Implied Probabilites Within Option Prices]
+- [Estimating Implied Probabilites Within Option Prices](<
 
 
