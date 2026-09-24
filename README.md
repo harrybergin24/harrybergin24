@@ -35,7 +35,7 @@ This project will once completed contain 3 parts:
 - Forecasting Volatility
 
 
-### [Estimating Implied Probabilites From Butterfly Options](https://github.com/harrybergin24/Estimating-implied-probabilties-from-Butterfly-options-/blob/b9ce77b5b5bfa6f13370c4e48c60098c8d7963d9/Estimating_Implied_Probabities_using_Butterflys%20(6).pdf)
+### Essasys
 
 In this project I derive from Stephen Blyth's 'An Introduction to Quantitative Finance' the result that butterfly option prices have a conditional probability density function embedded within them. The derivation starts from gaining call spreads in terms of binary option prices, and then writing butterfly option prices as two call spreads. Then I use this connection between risk-neutral densitys, option prices and expected payoffs to answer two questions from the back of chapter 11 in Blyth's book, whose answers reveal an very important result for derivative pricing, the idea of replicating a payoff using put and call options.  
 
