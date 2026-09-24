@@ -39,6 +39,6 @@ This project will once completed contain 3 parts:
 
 This file contains essays and sometimes code that I have written on topics within Quantitative Finance and Mathematics. Currently This file contains:
 
-- [Estimating Implied Probabilites Within Option Prices](<
+- [Estimating Implied Probabilites Within Option Prices](<Estimating-implied-probabilties-from-Butterfly-options-/blob/b9ce77b5b5bfa6f13370c4e48c60098c8d7963d9/Estimating_Implied_Probabities_using_Butterflys%20(6).pdf>)
 
 
