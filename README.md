@@ -34,7 +34,7 @@ This project will once completed contain 3 parts:
   
 - Forecasting Volatility
 
-### Derivatives Dashboard
+### *[Derivatives Dashboard](<
 In this project I provide prices for different types of derivative products, as well as the code and mathematics behind obtaining these prices. The aim of this project is for me to practice explaining complex mathematical ideas, programming and my mathematics problem solving. For the products that I have priced so far I have used a collection of academic papers, online videos and books. In the future I hope to provide a more interactive platform as well as pricing derivatives across a wider range of asset classes. 
 
 ### Quantitative Finance and Mathematics Essays
