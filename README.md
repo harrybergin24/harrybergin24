@@ -37,7 +37,8 @@ This project will once completed contain 3 parts:
 
 ### Quantitative Finance and Mathematics Essays
 
-In this project I derive from Stephen Blyth's 'An Introduction to Quantitative Finance' the result that butterfly option prices have a conditional probability density function embedded within them. The derivation starts from gaining call spreads in terms of binary option prices, and then writing butterfly option prices as two call spreads. Then I use this connection between risk-neutral densitys, option prices and expected payoffs to answer two questions from the back of chapter 11 in Blyth's book, whose answers reveal an very important result for derivative pricing, the idea of replicating a payoff using put and call options.  
+This file contains essays and sometimes code that I have written on topics within Quantitative Finance and Mathematics. Currently This file contains:
 
+- [Estimating Implied Probabilites Within Option Prices]
 
 
