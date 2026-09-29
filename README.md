@@ -1,4 +1,4 @@
-## Harry Bergin
+<img width="120" height="30" alt="image" src="https://github.com/user-attachments/assets/1789c12d-1633-4e1d-806b-56b82188b23a" />## Harry Bergin
 
 <!-- 
 **harrybergin24/harrybergin24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a second year Mathematics and Statistics student at Durham University. I am currently preparing for the Simon Marais competition. 
 
-I am fascinated by structured products and derivatives, I am researching everyday the process around how different products are created and priced.
+I am fascinated by structured products and derivatives, I am researching everyday the process around how different products are created and priced. I am currently self studying my Probability II module at Durham, alongside Rick Durrett's 'Probabiltiy Theory and examples' to build a strong base before challenging some complex questions in derivatives pricing. 
 
 I always appreciate any advice or suggestions, please contact me at: harrybergin@gmail.com
 
