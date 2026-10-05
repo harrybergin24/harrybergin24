@@ -1,6 +1,6 @@
 ## Harry Bergin
 
-I am a second year Mathematics and Statistics student at Durham University. I am currently preparing for the Simon Marais competition. 
+I am a second year Mathematics and Statistics student at Durham University. I am currently preparing for the Simon Marais competition, as well as competing in the following: SIG predicictions cup, Optiver Explaining Markets and J.P Morgan MarketMind Challenge.
 
 I am fascinated by structured products and derivatives, I am researching everyday the process around how different products are created and priced. I am currently self studying my Probability II module at Durham, alongside Rick Durrett's 'Probabiltiy Theory and examples' to build a strong base before challenging some complex questions in derivatives pricing. 
 
